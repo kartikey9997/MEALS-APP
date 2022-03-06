@@ -2,7 +2,7 @@
 
 This is a meals app, which helps user to go through the recepies of various dishes. It is made using Flutter .Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. This app is compatible for both android and ios .
 
-In this app you can track your daily expenses by adding them. User can add or delete the record as per it's requirement. At the top of the screen , it has one chart which shows the total expense on each day for a week. Rest all the instructions are mentioned below, please go through it once to have better understanding of the app.
+This app helps you to make dishes in an easy and simple way. User can chose a particular dish, ans then follow all the directions to prepare it. All the details related to that dish are also mentioned , for eg - Time to prepare it, complexity of that dish ans also it's price whether it is affordable or not.Rest all the instructions are mentioned below, please go through it once to have better understanding of the app.
 
 ## :plate_with_cutlery:  Homescreen  :plate_with_cutlery: 
 
@@ -18,7 +18,7 @@ In this app you can track your daily expenses by adding them. User can add or de
 
 <img src ="https://user-images.githubusercontent.com/57026722/156916183-0003f61a-22d0-43df-8a9a-bc5c75ee9fba.png" width="250" height="500">
 
-#### :fork_and_knife: Inside a particular category of meal :point_down:
+#### :fork_and_knife: Inside a particular category of meals :point_down:
 :knife: Showing various types of dishes in that category.
 
 <img src ="https://user-images.githubusercontent.com/57026722/156916193-f3899532-4bc4-4949-8f70-9f3adb2f010f.png" width="250" height="500">
