@@ -27,23 +27,34 @@ In this app you can track your daily expenses by adding them. User can add or de
 <img src ="https://user-images.githubusercontent.com/57026722/156916197-f0e010ae-11ad-409b-95c7-ec160b27b556.png" width="250" height="500">
 
 #### :fork_and_knife: List1 & List2 :point_down:
-:chopsticks: List 1 : Showing the required ingredients to prepare the dish.<br/>
-:chopsticks: List 2 : Showing the steps to prepare the dish.
+:chopsticks: List 1 : Showing the required ingredients to prepare the dish, List 2 : Showing the steps to prepare the dish.
 <img src ="https://user-images.githubusercontent.com/57026722/156916200-47d61531-d2a3-404d-bd0a-eef47e4ea545.png" width="250" height="500">
 
 #### :fork_and_knife: Marking as Favourite :point_down:
--By clicking the Star floating button user can mark that dish to favourite dishes.
+:chopsticks: By clicking the Star floating button user can mark that dish to favourite dishes.
 <img src ="https://user-images.githubusercontent.com/57026722/156916213-16ec3942-b92d-47da-913e-a8015178c947.png" width="250" height="500">
 
-#### :fork_and_knife: A new entry has been created :point_down:
+#### :fork_and_knife: Item had been added to the favourites section :point_down:
 <img src ="https://user-images.githubusercontent.com/57026722/156916216-c1267b82-720c-438a-be46-5cebd0e98879.png" width="250" height="500">
 
-#### :heavy_check_mark: Yaayy :tada::tada: Finally we made it :bangbang:
-<img src ="https://user-images.githubusercontent.com/57026722/156894529-59b6319f-c6ff-4e9c-a2a1-26012e3e6ee3.png" width="250" height="500">
-![Screenshot_1646557032](https://user-images.githubusercontent.com/57026722/156916219-50b5a859-41b7-4f19-a900-a3c7bf783709.png)
+#### :fork_and_knife: Opening the drawer
+User can also chose the various filters by clicking the icon at top laft corner.
+<img src ="https://user-images.githubusercontent.com/57026722/156916886-74806bdf-29dc-46bf-939e-68774340be28.png" width="250" height="500">
 
-![Screenshot_1646557036](https://user-images.githubusercontent.com/57026722/156916225-b53d3ac3-5226-4a28-8931-3820074c1530.png)
-![Screenshot_1646557079](https://user-images.githubusercontent.com/57026722/156916231-73373dcf-5257-47ed-966c-3f07fa1acf38.png)
+#### :fork_and_knife: Filters
+Various types of filters will appear. Choose as per the requirement.
+<img src ="https://user-images.githubusercontent.com/57026722/156917054-54beff55-a2ce-41ab-8a10-0bee67b4714f.png" width="250" height="500">
+
+#### :fork_and_knife: Selected Filters
+User can also chose the various filters by clicking the icon at top laft corner.
+<img src ="https://user-images.githubusercontent.com/57026722/156917060-32c5b8c0-ff9e-4a92-83b9-509996bca7d5.png" width="250" height="500">
+
+
+#### :fork_and_knife: Only Selected Dishes
+After applying filters, each meal category will have only selected dishes as per filters.
+<img src ="https://user-images.githubusercontent.com/57026722/156917074-d6c14f40-ddc8-4bcf-9e30-056dfc8f10d3.png" width="250" height="500">
+
+
 
 ## That's All :raised_hands: :raised_hands:
 ### :smiley: :smiley: Thanks for watching it !!:smiley::smiley:
