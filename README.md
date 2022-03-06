@@ -27,7 +27,8 @@ In this app you can track your daily expenses by adding them. User can add or de
 <img src ="https://user-images.githubusercontent.com/57026722/156916197-f0e010ae-11ad-409b-95c7-ec160b27b556.png" width="250" height="500">
 
 #### :fork_and_knife: List1 & List2 :point_down:
-:chopsticks: List 1 : Showing the required ingredients to prepare the dish, List 2 : Showing the steps to prepare the dish.
+*:chopsticks: List 1 : Showing the required ingredients to prepare the dish.
+*:chopsticks: List 2 : Showing the steps to prepare the dish.
 <img src ="https://user-images.githubusercontent.com/57026722/156916200-47d61531-d2a3-404d-bd0a-eef47e4ea545.png" width="250" height="500">
 
 #### :fork_and_knife: Marking as Favourite :point_down:
