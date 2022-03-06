@@ -14,12 +14,12 @@ In this app you can track your daily expenses by adding them. User can add or de
 ## Steps to go through the app :white_check_mark:
  
 #### :fork_and_knife: Initial homescreen :point_down:
-Showing various categories of meals.
+:chopsticks: Showing various categories of meals.
 
 <img src ="https://user-images.githubusercontent.com/57026722/156916183-0003f61a-22d0-43df-8a9a-bc5c75ee9fba.png" width="250" height="500">
 
 #### :fork_and_knife: Inside a particular category of meal :point_down:
-Showing various types of dishes in that category.
+:chopsticks: Showing various types of dishes in that category.
 
 <img src ="https://user-images.githubusercontent.com/57026722/156916193-f3899532-4bc4-4949-8f70-9f3adb2f010f.png" width="250" height="500">
 
@@ -27,7 +27,7 @@ Showing various types of dishes in that category.
 <img src ="https://user-images.githubusercontent.com/57026722/156916197-f0e010ae-11ad-409b-95c7-ec160b27b556.png" width="250" height="500">
 
 #### :fork_and_knife: List1 & List2 :point_down:
-:chopsticks: List 1 : Showing the required ingredients to prepare the dish.
+:chopsticks: List 1 : Showing the required ingredients to prepare the dish.<br/>
 :chopsticks: List 2 : Showing the steps to prepare the dish.
 <img src ="https://user-images.githubusercontent.com/57026722/156916200-47d61531-d2a3-404d-bd0a-eef47e4ea545.png" width="250" height="500">
 
