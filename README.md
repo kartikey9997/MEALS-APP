@@ -7,8 +7,8 @@ In this app you can track your daily expenses by adding them. User can add or de
 ## :plate_with_cutlery:  Homescreen  :plate_with_cutlery: 
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/57026722/156915811-ae06729a-b86c-4e5e-a2b4-39c41463404b.png" width="250" height="500"/>
-  <img src="https://user-images.githubusercontent.com/57026722/156915922-0f108107-ab4b-4b7b-b62c-5ebd5b699ad3.png" width="250" height="500"/> 
+  <img src="https://user-images.githubusercontent.com/57026722/156915811-ae06729a-b86c-4e5e-a2b4-39c41463404b.png" width="250" height="500" hspace="50"/>
+  <img src="https://user-images.githubusercontent.com/57026722/156915922-0f108107-ab4b-4b7b-b62c-5ebd5b699ad3.png" width="250" height="500" hspace="50"/> 
 </p>
 
 ## Steps to go through the app :white_check_mark:
