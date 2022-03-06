@@ -2,7 +2,7 @@
 
 This is a meals app, which helps user to go through the recepies of various dishes. It is made using Flutter .Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. This app is compatible for both android and ios .
 
-This app helps you to make dishes in an easy and simple way. User can chose a particular dish, ans then follow all the directions to prepare it. All the details related to that dish are also mentioned , for eg - Time to prepare it, complexity of that dish ans also it's price whether it is affordable or not.Rest all the instructions are mentioned below, please go through it once to have better understanding of the app.
+This app helps you to make dishes in an easy and simple way. User can chose a particular dish, and then just follow all the instructions to prepare it. All the details related to that dish are also mentioned , for eg - Time to prepare the dish , Complexity of the dish and also it's price whether it is affordable or not. Rest all the instructions are mentioned below, please go through it once to have better understanding of the app.
 
 ## :plate_with_cutlery:  Homescreen  :plate_with_cutlery: 
 
