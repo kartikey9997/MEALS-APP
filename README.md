@@ -4,11 +4,11 @@ This is a meals app, which helps user to go through the recepies of various dish
 
 In this app you can track your daily expenses by adding them. User can add or delete the record as per it's requirement. At the top of the screen , it has one chart which shows the total expense on each day for a week. Rest all the instructions are mentioned below, please go through it once to have better understanding of the app.
 
-## Homescreen :iphone: :plate_with_cutlery:
+## :plate_with_cutlery:  Homescreen  :plate_with_cutlery: 
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/57026722/156915811-ae06729a-b86c-4e5e-a2b4-39c41463404b.png" width="100" />
-  <img src="https://user-images.githubusercontent.com/57026722/156915811-ae06729a-b86c-4e5e-a2b4-39c41463404b.png" width="100" /> 
+  <img src="https://user-images.githubusercontent.com/57026722/156915811-ae06729a-b86c-4e5e-a2b4-39c41463404b.png" width="250" height="500"/>
+  <img src="https://user-images.githubusercontent.com/57026722/156915922-0f108107-ab4b-4b7b-b62c-5ebd5b699ad3.png" width="250" height="500"/> 
 </p>
 
 ## Steps to go through the app :white_check_mark:
